@@ -277,6 +277,7 @@ body{
   font-weight: bold;
   border: none;
   border-radius: 5px;
+  cursor: pointer;
 }
 
 .submitBtn > input:hover{
